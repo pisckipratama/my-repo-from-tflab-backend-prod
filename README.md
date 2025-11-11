@@ -1,2 +1,2 @@
-# my-repo-from-tflab-backend-prod
-This is my Github repository python who created by Terraform from Windows.
+# LAB TERRAFORM
+This prod python repository is for backend developers, changed by: Piscki Pratama.
